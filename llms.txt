@@ -1,0 +1,106 @@
+# MIX-SMM.RU — Complete SMM Platform Guide
+
+> MIX-SMM.RU is an automated SMM panel for ordering social media promotion services: followers, likes, views, comments for Telegram, VK, YouTube, TikTok, Instagram, Discord, Twitch, Spotify. Operating since 2024. 5,600+ users, 1,847,000+ orders completed.
+
+## Pages
+
+- [Guide (RU)](https://guide.mix-smm.ru/) — Полный гид по платформе: регистрация, пополнение, заказ услуг, API v2, Child Panel, отлёжка Telegram
+- [Guide (EN)](https://guide.mix-smm.ru/?lang=en) — Complete platform guide: registration, top-up, ordering, API v2, Child Panel, Telegram aging
+- [Main Site (RU)](https://mix-smm.ru) — SMM-панель: накрутка подписчиков, лайков, просмотров
+- [Main Site (EN)](https://mix-smm.ru/en) — SMM panel: followers, likes, views promotion
+- [Services](https://mix-smm.ru/services) — Полный каталог услуг (1,063+ сервисов)
+- [Sign Up](https://mix-smm.ru/signup) — Регистрация аккаунта
+- [Support](https://mix-smm.ru/tickets) — Тикеты поддержки
+- [Contacts](https://mix-smm.ru/kontakti) — Контактная информация
+- [Terms](https://mix-smm.ru/terms) — Условия использования
+- [Privacy](https://mix-smm.ru/policy) — Политика обработки данных
+- [Affiliates](https://mix-smm.ru/affiliates) — Партнёрская программа
+- [Child Panel](https://mix-smm.ru/child-panel) — SMM-панель под вашим брендом
+- [API](https://mix-smm.ru/api) — Документация API v2
+- [Blog](https://mix-smm.ru/blog) — Статьи и гайды по продвижению
+
+## Platform Statistics
+
+- **5,600+** registered users
+- **1,847,000+** orders completed
+- **1,063+** available services
+- **0.4₽** minimum price per 1,000
+- **~34 seconds** between new orders
+- **24/7** automated processing
+
+## Key Sections
+
+### Quick Start
+Registration → Top-up balance → Choose service → Place order → Track status → Result (5 minutes)
+
+### Service Catalog
+1,000+ services across platforms:
+- **Telegram:** Subscribers, Views, Reactions, Comments, Post Views, Channel Members
+- **VK:** Subscribers, Likes, Views, Reposts, Comments, Friends
+- **YouTube:** Subscribers, Views, Likes, Comments, Watch Hours
+- **TikTok:** Followers, Likes, Views, Shares
+- **Instagram:** Followers, Likes, Views, Story Views
+- **Discord:** Members, Boosts
+- **Twitch:** Viewers, Followers
+- **Spotify:** Plays, Followers
+- **Other:** Yandex Music, RuTube, Likee, SoundCloud
+
+### Order Management
+- Statuses: Pending, In Progress, Completed, Partial, Cancelled
+- Cancellation rules and refund policy
+- Drip-feed for gradual delivery
+- Mass orders for bulk promotion
+
+### Telegram Aged Objects
+- Buy Telegram channels/chats with verified age (6mo, 10mo, 1yr+)
+- Partner service: [targetlike.com](https://targetlike.com)
+- Verified creation dates, instant transfer, 24h guarantee
+
+### API v2
+- Full programmatic access
+- Standard SMM API v2 compatible
+- Endpoints: services, add, status, balance
+- Documentation: https://mix-smm.ru/api
+
+### Child Panel
+- White-label SMM service under your own brand
+- Price: 2,500 ₽/month
+- Full control, your domain, your pricing
+
+### Referral Program
+- Earn percentage from referred users' orders
+- Automatic, unlimited, indefinite
+- No limits on referrals
+
+### Pro Strategies
+- Aged object + promotion bundle
+- Budget optimization tips
+- Mass order automation
+- Drip-feed for organic growth
+
+## Pricing
+
+- Minimum order: from 0.4₽ per 1,000
+- Top-up bonuses: +3% (from 3,000₽), +7% (from 50,000₽)
+- Payment methods: Russian bank cards, e-wallets, cryptocurrency
+- Automatic processing 24/7
+
+## Platforms Supported
+
+Telegram, VK (ВКонтакте), YouTube, TikTok, Instagram, Facebook, Discord, Twitch, Spotify, Yandex Music, RuTube, Likee, SoundCloud
+
+## Services Include
+
+Subscribers, Likes, Views, Reposts, Comments, Reactions, Story Views, Stream Viewers, Auto-services (auto-views, auto-reactions), Retention views, Friend requests, Channel members, Post saves, Shares
+
+## Contact
+
+- **Support:** https://mix-smm.ru/tickets
+- **Telegram Admin:** @mixsmmadm5
+- **Aged Channels:** @atom_nt2
+- **All Contacts:** https://mix-smm.ru/kontakti
+- **Email:** maxpanel@mail.ru
+
+## Keywords
+
+смм накрутка, накрутка подписчиков телеграм, накрутка лайков, смм продвижение, заказать подписчиков телеграм, накрутка просмотров телеграм, смм панель, smm panel, telegram followers, youtube views, tiktok followers, social media promotion, mass order smm, smm api, child panel, drip-feed, aged telegram channels, накрутка вконтакте, раскрутка телеграм, продвижение в телеграме, смм сервис, автоматическая накрутка, массовый заказ смм, накрутка подписчиков бесплатно, как накрутить подписчиков, лучший смм сервис, смм панель дешево, накрутка инстаграм, накрутка ютуб, накрутка тикток
