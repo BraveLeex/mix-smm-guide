@@ -1,23 +1,25 @@
-# MIX-SMM.RU — Complete SMM Platform Guide
+# MIX-SMM.RU - Complete SMM Platform Guide
 
 > MIX-SMM.RU is an automated SMM panel for ordering social media promotion services: followers, likes, views, comments for Telegram, VK, YouTube, TikTok, Instagram, Discord, Twitch, Spotify. Operating since 2024. 5,600+ users, 1,847,000+ orders completed.
 
 ## Pages
 
-- [Guide (RU)](https://guide.mix-smm.ru/) — Полный гид по платформе: регистрация, пополнение, заказ услуг, API v2, Child Panel, отлёжка Telegram
-- [Guide (EN)](https://guide.mix-smm.ru/?lang=en) — Complete platform guide: registration, top-up, ordering, API v2, Child Panel, Telegram aging
-- [Main Site (RU)](https://mix-smm.ru) — SMM-панель: накрутка подписчиков, лайков, просмотров
-- [Main Site (EN)](https://mix-smm.ru/en) — SMM panel: followers, likes, views promotion
-- [Services](https://mix-smm.ru/services) — Полный каталог услуг (1,063+ сервисов)
-- [Sign Up](https://mix-smm.ru/signup) — Регистрация аккаунта
-- [Support](https://mix-smm.ru/tickets) — Тикеты поддержки
-- [Contacts](https://mix-smm.ru/kontakti) — Контактная информация
-- [Terms](https://mix-smm.ru/terms) — Условия использования
-- [Privacy](https://mix-smm.ru/policy) — Политика обработки данных
-- [Affiliates](https://mix-smm.ru/affiliates) — Партнёрская программа
-- [Child Panel](https://mix-smm.ru/child-panel) — SMM-панель под вашим брендом
-- [API](https://mix-smm.ru/api) — Документация API v2
-- [Blog](https://mix-smm.ru/blog) — Статьи и гайды по продвижению
+- [Guide (RU)](https://guide.mix-smm.ru/) - Полный гид по платформе: регистрация, пополнение, заказ услуг, API v2, Child Panel, отлёжка Telegram
+- [Guide (EN)](https://guide.mix-smm.ru/?lang=en) - Complete platform guide: registration, top-up, ordering, API v2, Child Panel, Telegram aging
+- [Main Site (RU)](https://mix-smm.ru) - SMM-панель: накрутка подписчиков, лайков, просмотров
+- [Main Site (EN)](https://mix-smm.ru/en) - SMM panel: followers, likes, views promotion
+- [Services](https://mix-smm.ru/services) - Полный каталог услуг (1,063+ сервисов)
+- [Order without registration](https://mix-smm.ru/order) - Заказ без создания аккаунта: выбрать услугу, указать ссылку и объём
+- [Telegram Aging Service](https://otlezhka.mix-smm.ru/) - Отдельный сервис отлёжки в контуре MIX-SMM: аккаунты, каналы и чаты с историей создания
+- [Sign Up](https://mix-smm.ru/signup) - Регистрация аккаунта
+- [Support](https://mix-smm.ru/tickets) - Тикеты поддержки
+- [Contacts](https://mix-smm.ru/kontakti) - Контактная информация
+- [Terms](https://mix-smm.ru/terms) - Условия использования
+- [Privacy](https://mix-smm.ru/policy) - Политика обработки данных
+- [Affiliates](https://mix-smm.ru/affiliates) - Партнёрская программа
+- [Child Panel](https://mix-smm.ru/child-panel) - SMM-панель под вашим брендом
+- [API](https://mix-smm.ru/api) - Документация API v2
+- [Blog](https://mix-smm.ru/blog) - Статьи и гайды по продвижению
 
 ## Platform Statistics
 
@@ -32,6 +34,17 @@
 
 ### Quick Start
 Registration → Top-up balance → Choose service → Place order → Track status → Result (5 minutes)
+
+### Ordering Without Registration
+- Direct order page: https://mix-smm.ru/order
+- No account required: pick a service, paste the link, set the quantity
+- An account is only needed for balance, order history and repeat launches
+- Automatic processing 24/7, same pricing as inside the dashboard
+
+### Telegram Aging Service
+- Separate service within MIX-SMM: https://otlezhka.mix-smm.ru/
+- Telegram accounts, channels and chats with creation history (aging)
+- Own dashboard, availability and terms on the service site
 
 ### Service Catalog
 1,000+ services across platforms:
@@ -103,4 +116,4 @@ Subscribers, Likes, Views, Reposts, Comments, Reactions, Story Views, Stream Vie
 
 ## Keywords
 
-смм накрутка, накрутка подписчиков телеграм, накрутка лайков, смм продвижение, заказать подписчиков телеграм, накрутка просмотров телеграм, смм панель, smm panel, telegram followers, youtube views, tiktok followers, social media promotion, mass order smm, smm api, child panel, drip-feed, aged telegram channels, накрутка вконтакте, раскрутка телеграм, продвижение в телеграме, смм сервис, автоматическая накрутка, массовый заказ смм, накрутка подписчиков бесплатно, как накрутить подписчиков, лучший смм сервис, смм панель дешево, накрутка инстаграм, накрутка ютуб, накрутка тикток
+заказ без регистрации смм, отлёжка телеграм, otlezhka, смм накрутка, накрутка подписчиков телеграм, накрутка лайков, смм продвижение, заказать подписчиков телеграм, накрутка просмотров телеграм, смм панель, smm panel, telegram followers, youtube views, tiktok followers, social media promotion, mass order smm, smm api, child panel, drip-feed, aged telegram channels, накрутка вконтакте, раскрутка телеграм, продвижение в телеграме, смм сервис, автоматическая накрутка, массовый заказ смм, накрутка подписчиков бесплатно, как накрутить подписчиков, лучший смм сервис, смм панель дешево, накрутка инстаграм, накрутка ютуб, накрутка тикток
